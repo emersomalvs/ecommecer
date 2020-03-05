@@ -1,9 +1,9 @@
 {
-    "name": "emersomalvs/ecommerce",
+    "name": "hcodebr/ecommerce",
     "authors": [
         {
-            "name": "Emersom Alvs",
-            "email": "emersomalvis@gmail.com.br"
+            "name": "Hcode Treinamentos",
+            "email": "suporte@hcode.com.br"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
+            "": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
